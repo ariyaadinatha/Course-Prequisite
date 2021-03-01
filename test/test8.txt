@@ -1,0 +1,13 @@
+Belajar.
+NilaiBagus, Rajin, Belajar.
+Olahraga.
+Organisasi.
+Sehat, Olahraga.
+Berotot, Rajin, Olahraga.
+PunyaPacar, NilaiBagus, Organisasi, Berotot.
+Rajin.
+Ganteng, Berotot.
+Gym, Berotot
+Pelangi, Ganteng, Berotot, Gym.
+Budak, Organisasi.
+

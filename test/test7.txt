@@ -1,0 +1,10 @@
+Bangun.
+Makan, Bangun.
+Belajar, Makan, Bangun.
+Kelas, Bangun.
+Tugas, Kelas, Makan.
+Praktikum, Kelas.
+Tubes, Tugas.
+Keos, Praktikum, Tubes.
+Meninggal, Keos, Stress.
+Stress, Bangun.
